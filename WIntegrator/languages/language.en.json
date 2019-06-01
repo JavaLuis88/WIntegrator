@@ -1,0 +1,30 @@
+{
+
+    "mainwindowtitle":"DispHelper",
+    "loadapperror":"Error loading application",
+    "preloadernotvalid": "Preload module is not valid",
+    "configfilenovalid":"Config file is not valid",
+    "defaultlaguagenotload":"Default language can not be load",
+    "mainconfigfilenospecified":"A valid configuration file is not specified",
+    "mainconfigfilenovalid":"Config file is not valid",
+    "ioerror":"I/O Error",
+    "userappsconfigfilenovalid":"User apps config file is not valid.",
+    "loadlanguageerror":"Error loading language",
+    "loaddefaultlanguageerror":"Error loading default language",
+    "integratorlanguageselectapp":"Language Selection",
+    "integratorconfigapp":"Configuration",
+    "language":"Language",
+    "espanol":"Spanish",
+    "english":"English",
+    "accept":"Accept",
+    "close":"Close",
+    "programtoconfigure":"Program to configure",
+    "cancel":"Cancel" , 
+    "nohasgogconfigurationmodules":"Aplications haven got configuration modules",
+    "operationerror":"Failed to perform the operation"
+
+ 
+}
+
+
+

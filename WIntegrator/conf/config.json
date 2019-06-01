@@ -1,0 +1,8 @@
+{
+"urlbase":"http://192.168.55.101/WIntegrator",
+"appsfolder":"apps",
+"appsfileindex":"appsindex.json",
+"preloaderclass":"IntegratorPreloader",
+"preloaderfile":"js/IntegratorPreloader.js",
+"storeuserconfigkey":"disphelper"
+}

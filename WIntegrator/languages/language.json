@@ -1,0 +1,28 @@
+{
+"mainwindowtitle":"DispHelper",
+"loadapperror":"Error al cargar la aplicacción",
+"preloadernotvalid": "El módulo de precarga no es válido",
+"configfilenovalid":"El archivo de configuración no es válido",
+"defaultlaguagenotload":"No se ha podido cargar el lenguaje por defecto",
+"mainconfigfilenospecified":"No ha sido especificado un archivo de configuración valido",
+"mainconfigfilenovalid":"El archivo de configuración no es válido",
+"ioerror":"Error de E/S",
+"userappsconfigfilenovalid":"El archivo de configuración de aplicaciones no es válido",
+"loadlanguageerror":"Error al cargar el archivo de lenguaje",
+"loaddefaultlanguageerror":"Error al cargar el archivo de lenguaje por defecto",
+"integratorlanguageselectapp":"Selección de lenguaje",
+"integratorconfigapp":"Configuración",
+"language":"Lenguaje",
+"espanol":"Español",
+"english":"Ingles",
+"accept":"Aceptar",
+"close":"Cerrar",
+"programtoconfigure":"Programa  a configurar",
+"cancel":"Cancelar",
+"nohasgogconfigurationmodules":"Ninguna aplicacion tiene módulos de configuración",
+"operationerror":"Error al realziar la operación"
+}
+
+
+
+
